@@ -1,1 +1,1 @@
-# termu-wa-bot-raka
+# termux-wa-bot-raka
